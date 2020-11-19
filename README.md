@@ -6,6 +6,7 @@ de lecture Spotify, basée sur la chanson de nos vidéos préférées.
 
 ### Technologies
 
+* python 3
 * Youtube Data API v3
 * Spotify Web API
 * Requests Library v 2.22.0
