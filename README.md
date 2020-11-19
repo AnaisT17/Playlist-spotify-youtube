@@ -28,12 +28,12 @@ de lecture Spotify, basée sur la chanson de nos vidéos préférées.
 2. Récupérez votre identifiant d'utilisateur Spotify et votre token Oauth à partir de Spotfiy et ajoutez-le au fichier **secrets.py**
 - Pour récupérer votre identifiant d'utilisateur, connectez-vous à Spotify puis allez ici: [Account overview][1] et Username
 
-![Compte Spotify](https://anaist17.github.io/Playlist-spotify-youtube/images/spotify.png)
+![Token Youtube](https://anaist17.github.io/Playlist-spotify-youtube/images/youtube.png)
+
 
 - Pour récupérer votre token Oauth, visitez cette URL ci: [Get Oauth][2] et cliquez sur le bouton **Get token**.
 
-
-![Token Youtube](https://anaist17.github.io/Playlist-spotify-youtube/images/youtube.png)
+![Compte Spotify](https://anaist17.github.io/Playlist-spotify-youtube/images/spotify.png)
 
 3. Activez Oauth pour Youtube et téléchargez le client_secrets.json
 - Pour vous aidez suivez le [guide.][3]
